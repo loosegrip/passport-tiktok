@@ -1,7 +1,7 @@
 {
-  "name": "passport-oauth2",
-  "version": "1.6.1",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "name": "passport-tiktok",
+  "version": "1.6.2",
+  "description": "OAuth 2.0 authentication strategy for Passport/Tiktok.",
   "keywords": [
     "passport",
     "auth",
@@ -19,14 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
+    "url": "git://github.com/loosegrip/passport-tiktok.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "http://github.com/loosegrip/passport-tiktok/issues"
   },
   "license": "MIT",
   "licenses": [
